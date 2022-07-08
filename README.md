@@ -34,3 +34,14 @@ src/
 2. `yarn` o `npm install` para instalar paquetes npm 
 3. Levantar app para android (npx react-native run-android) o iOS (npx react-native run-ios).
 4. `yarn start` o `npm start` para inicializar server de desarrollo
+
+
+## Resultado
+
+Android:
+
+![Screenshot_20220708-173526_DigBangRN](https://user-images.githubusercontent.com/28366930/178070323-98943b11-6697-423c-a953-98831d6951c1.jpg)
+
+iOS:
+
+<img width="333" alt="image (11)" src="https://user-images.githubusercontent.com/28366930/178070340-d761b2f5-9e82-4712-93b7-948b4c90a1f0.png">
